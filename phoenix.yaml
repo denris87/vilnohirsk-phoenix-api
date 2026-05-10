@@ -1,0 +1,19 @@
+phoenix:
+  - name: "Акмурзін Сергій Олександрович"
+    dob: "14.11.1990"
+    date_missing: "29.12.2022"
+    description: "Під Курдюмовкой\n60 бригада\n97 бат\nПозивний \"MURZ\""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-10_14-38-50.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-10_14-38-48.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-10_14-38-49.jpg?raw=true"
+    phone: ""
+    active: true
+
+  - name: "Приклад Іван Іванович"
+    dob: "01.01.1995"
+    date_missing: "10.05.2023"
+    description: "Зник на Донецькому напрямку."
+    photos: []
+    phone: "+380971234567"
+    active: false
