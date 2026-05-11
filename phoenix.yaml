@@ -12,7 +12,7 @@ phoenix:
 
   - name: "Бортніков Володимир Володимирович"
     dob: "18.05.1983"
-    date_missing: "31.03.23"
+    date_missing: "31.03.2023"
     description: "Зник 31.03.23\nН.п. Хромове\nБахмутський напрямок\nПозивний \"Борт\""
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-05-21.jpg?raw=true"
