@@ -29,3 +29,13 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-13-06.jpg?raw=true"
     phone: ""
     active: true
+
+  - name: "Абаза Євген Володимирович"
+    dob: "15.02.1987"
+    date_missing: "29.12.2022"
+    description: "зник 29.12.2022\nБахмут Курдюмівка\nПозивний \"Гудвін\""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_19-03-39.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_19-03-40.jpg?raw=true"
+    phone: ""
+    active: true
