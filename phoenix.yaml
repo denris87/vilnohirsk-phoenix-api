@@ -13,9 +13,19 @@ phoenix:
   - name: "Бортніков Володимир Володимирович"
     dob: "18.05.1983"
     date_missing: "31.03.23"
-    description: "Зник 31.03.23 року\nН.п. Хромове\nБахмутський напрямок\nПозивний \"Борт\""
+    description: "Зник 31.03.23\nН.п. Хромове\nБахмутський напрямок\nПозивний \"Борт\""
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-05-21.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-05-22.jpg?raw=true"
+    phone: ""
+    active: true
+
+  - name: "Копаненко Віктор Степанович"
+    dob: "19.01.1979"
+    date_missing: "25.02.2025"
+    description: "Зник 25.02.2025\nНа Куп'янському напрямку\nПозивний \"Дєд\""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-13-04.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-13-06.jpg?raw=true"
     phone: ""
     active: true
