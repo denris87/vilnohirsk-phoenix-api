@@ -60,3 +60,12 @@ phoenix:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_17-50-06.jpg?raw=true"
     active: true
+
+  - name: "Данченко Генадій Іванович"
+    dob: "29.06.1994"
+    date_missing: "13.06.2025"
+    callsign: "Бєня"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-51-54.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-51-57.jpg?raw=true"
+    active: true
