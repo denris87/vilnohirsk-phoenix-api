@@ -87,3 +87,35 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo-output%202.PNG?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-59-03.jpg?raw=true"
     active: true
+
+  - name: "Романюк Віталій Михайлович"
+    dob: "05.04.1985"
+    date_missing: "29.09.2025"
+    callsign: ""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_21-03-37.jpg?raw=true"
+    active: true
+
+  - name: "Григоренко Сергій Станіславович"
+    dob: "16.04.1977"
+    date_missing: "29.09.2025"
+    callsign: ""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_21-06-51.jpg?raw=true"
+    active: true
+
+  - name: "Черняк Руслан Ігорович"
+    dob: "25.04.1990"
+    date_missing: "20.03.2022"
+    callsign: ""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo-output%203.PNG?raw=true"
+    active: true
+
+  - name: "Соломка Сергій Юрійович"
+    dob: "10.02.1983"
+    date_missing: "23.04.2023"
+    callsign: "Старий"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_21-11-34.jpg?raw=true"
+    active: true
