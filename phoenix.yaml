@@ -12,57 +12,51 @@ phoenix:
   - name: "Бортніков Володимир Володимирович"
     dob: "18.05.1983"
     date_missing: "31.03.2023"
-    description: "Зник 31.03.23\nН.п. Хромове\nБахмутський напрямок\nПозивний \"Борт\""
+    callsign: "Борт"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-05-21.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-05-22.jpg?raw=true"
-    phone: ""
     active: true
 
   - name: "Копаненко Віктор Степанович"
     dob: "19.01.1979"
     date_missing: "25.02.2025"
-    description: "Зник 25.02.2025\nНа Куп'янському напрямку\nПозивний \"Дєд\""
+    callsign: "Дєд"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-13-04.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_18-13-06.jpg?raw=true"
-    phone: ""
     active: true
 
   - name: "Абаза Євген Володимирович"
     dob: "15.02.1987"
     date_missing: "29.12.2022"
-    description: "Зник 29.12.2022\nБахмут Курдюмівка\nПозивний \"Гудвін\""
+    callsign: "Гудвін"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_19-03-39.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_19-03-40.jpg?raw=true"
-    phone: ""
     active: true
 
   - name: "Абаза Олександр Володимирович"
     dob: "06.03.1985"
     date_missing: "29.12.2022"
-    description: "Зник 29.12.2022\nБахмут Курдюмівка\nПозивний \"Барс\""
+    callsign: "Барс"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_15-05-26.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_15-05-25.jpg?raw=true"
-    phone: ""
     active: true
 
   - name: "Караван Юрій Анатолійович"
     dob: "03.04.1972"
     date_missing: "27.07.2023"
-    description: "Не виходить на зв'язок з 27.07.2023\nСтарший сержант 60 бригади, 97 батальйону, 6 рота. В останній час був на березі Берхівського водосховища, Бахмутського району, Донецька область.\nПозивний \"\""
+    callsign: ""
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_17-42-45.jpg?raw=true"
-    phone: ""
     active: true
 
-  - name: "Савенко Вячеслав Володимировичч"
+  - name: "Савенко Вячеслав Володимирович"
     dob: "06.08.1993"
     date_missing: "23.02.2024"
-    description: "Зник безвісти Бахмуцькиц район Донецької області н.п.Іваніське \nБув прикомандирований до частини А 4010.5 оперативна штурмова бригада.\nПозивний \"Обойма\""
+    callsign: "Обойма"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_17-50-06.jpg?raw=true"
-    phone: ""
     active: true
