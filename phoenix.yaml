@@ -69,3 +69,21 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-51-54.jpg?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-51-57.jpg?raw=true"
     active: true
+
+  - name: "Трофименко Артур Сергійович"
+    dob: "28.12.1979"
+    date_missing: "14.09.2025"
+    callsign: ""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-56-27.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-56-28.jpg?raw=true"
+    active: true
+
+  - name: "Ющенко Анатолій Володимирович"
+    dob: "07.12.1979"
+    date_missing: "29.09.2025"
+    callsign: "Юха"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo-output%202.PNG?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_20-59-03.jpg?raw=true"
+    active: true
