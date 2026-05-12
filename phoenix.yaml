@@ -58,3 +58,12 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_17-42-45.jpg?raw=true"
     phone: ""
     active: true
+
+  - name: "Савенко Вячеслав Володимировичч"
+    dob: "06.08.1993"
+    date_missing: "23.02.2024"
+    description: "Зник безвісти Бахмуцькиц район Донецької області н.п.Іваніське \nБув прикомандирований до частини А 4010.5 оперативна штурмова бригада.\nПозивний \"Обойма\""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_17-50-06.jpg?raw=true"
+    phone: ""
+    active: true
