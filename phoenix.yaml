@@ -39,3 +39,13 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-11_19-03-40.jpg?raw=true"
     phone: ""
     active: true
+
+  - name: "Абаза Олександр Володимирович"
+    dob: "06.03.1985"
+    date_missing: "29.12.2022"
+    description: "Зник 29.12.2022\nБахмут Курдюмівка\nПозивний \"Барс\""
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_15-05-26.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_15-05-25.jpg?raw=true"
+    phone: ""
+    active: true
