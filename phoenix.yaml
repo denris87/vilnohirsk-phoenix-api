@@ -198,14 +198,6 @@ phoenix:
     date_missing: "28.03.26"
     callsign: 
     photos:
-      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-11-28.jpg?raw=true"
-    active: true
-
-  - name: "Ковальчук Петро Іванович"
-    dob: "23.02.1983"
-    date_missing: "28.03.26"
-    callsign: 
-    photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-12-14.jpg?raw=true"
     active: true
 
