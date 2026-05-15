@@ -143,3 +143,143 @@ phoenix:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_17-59-28.jpg?raw=true"
     active: true
+
+  - name: "Лінник Олександр Олександрович"
+    dob: "19.11.1987"
+    date_missing:
+    callsign: "Вольнік"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-02-56.jpg?raw=true"
+    active: true
+
+  - name: "Бігун Олександр Анатолійович"
+    dob: "06.18.1983"
+    date_missing: "14.09.2024"
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-04-54.jpg?raw=true"
+    active: true
+
+  - name: "Ігнатова Олександр Олександровича"
+    dob: "02.08.1976"
+    date_missing: "29.12.2022"
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-05-50.jpg?raw=true"
+    active: true
+
+  - name: "Бруснік Богдан Олександрович"
+    dob: "02.04.1992"
+    date_missing: "13.05.2022"
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-07-59.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-07-58.jpg?raw=true"
+    active: true
+
+  - name: "Біленко Олег Володимировича"
+    dob: "27.05.1987"
+    date_missing: 
+    callsign: "Білий"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-10-15.jpg?raw=true"
+    active: true
+
+  - name: "Булах Олег Володимирович"
+    dob: 
+    date_missing: "23.12 2024"
+    callsign: "Дід"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-11-28.jpg?raw=true"
+    active: true
+
+  - name: "Ковальчук Петро Іванович"
+    dob: "23.02.1983"
+    date_missing: "28.03.26"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-11-28.jpg?raw=true"
+    active: true
+
+  - name: "Ковальчук Петро Іванович"
+    dob: "23.02.1983"
+    date_missing: "28.03.26"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-12-14.jpg?raw=true"
+    active: true
+
+  - name: "Рапина Владислав Володимирович"
+    dob: "21.02.1975"
+    date_missing: "01.09.2025"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-15-09.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-15-11.jpg?raw=true"
+    active: true
+
+  - name: "Горобчук Сергій Леонідович"
+    dob: "07.11.1982"
+    date_missing: 
+    callsign: "Бакарді"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-16-46.jpg?raw=true"
+    active: true
+
+  - name: "Іванов Юрій Олександрович"
+    dob: 
+    date_missing: "04.11.2023"
+    callsign: "Кавун"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-18-42.jpg?raw=true"
+    active: true
+
+  - name: "Щербаченко Олександр Олександрович"
+    dob: "02.01.1999"
+    date_missing: "14.03.2026"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-19-49.jpg?raw=true"
+    active: true
+
+  - name: "Ляшов Валерій Валерійович"
+    dob: "04.03.1975"
+    date_missing: "07.11.2022"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-20-55.jpg?raw=true"
+    active: true
+
+  - name: "Галушка Ярослав Віталійович"
+    dob: "15.09.1983"
+    date_missing: "10.03.2023"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6774.jpg?raw=true"
+    active: true
+
+  - name: "Коваль Олександр Сергійович"
+    dob: "12.03.1990"
+    date_missing: "07.04.2026"
+    callsign: "Хник"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-23-29.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-23-31.jpg?raw=true"
+    active: true
+
+  - name: "Кучерук Сергій Сергійович"
+    dob: "09.01.1997"
+    date_missing: "04.09.2024"
+    callsign: "Кот"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-25-45.jpg?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-25-46.jpg?raw=true"
+    active: true
+
+  - name: "Садовський Дмитро Васильович"
+    dob: "06.09.1989"
+    date_missing: "30.06.2025"
+    callsign: "Кот"
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-27-21.jpg?raw=true"
+    active: true
