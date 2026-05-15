@@ -119,3 +119,27 @@ phoenix:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-12_21-11-34.jpg?raw=true"
     active: true
+    
+  - name: "Кобилько Юрій Миколайович"
+    dob: 
+    date_missing: "19.07.2025"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_17-56-03.jpg?raw=true"
+    active: true
+
+  - name: "Петровий Дмитро  Вікторович"
+    dob: "28.06.1984"
+    date_missing: "12.05.2025"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_17-58-48.jpg?raw=true"
+    active: true
+
+  - name: "Чмульов Андрій  Михайлович"
+    dob: "14.11.1980"
+    date_missing: "12.05.2025"
+    callsign: 
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_17-59-28.jpg?raw=true"
+    active: true
