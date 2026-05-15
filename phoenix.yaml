@@ -283,3 +283,12 @@ phoenix:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-27-21.jpg?raw=true"
     active: true
+
+  - name: "Єгоров Олександр Олександрович"
+    dob: "30.03.1992"
+    date_missing: "12.04.2022"
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6795.JPG?raw=true"
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6796.JPG?raw=true"
+    active: true
