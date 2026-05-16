@@ -161,7 +161,7 @@ phoenix:
     active: true
 
   - name: "Бігун Олександр Анатолійович"
-    dob: "06.08.1983"
+    dob: "18.06.1983"
     date_missing: "14.09.2024"
     callsign:
     photos:
