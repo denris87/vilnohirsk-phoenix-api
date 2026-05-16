@@ -161,7 +161,7 @@ phoenix:
     active: true
 
   - name: "Бігун Олександр Анатолійович"
-    dob: "06.18.1983"
+    dob: "06.08.1983"
     date_missing: "14.09.2024"
     callsign:
     photos:
@@ -195,7 +195,7 @@ phoenix:
 
   - name: "Булах Олег Володимирович"
     dob: 
-    date_missing: "23.12 2024"
+    date_missing: "23.12.2024"
     callsign: "Дід"
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-11-28.jpg?raw=true"
@@ -203,7 +203,7 @@ phoenix:
 
   - name: "Ковальчук Петро Іванович"
     dob: "23.02.1983"
-    date_missing: "28.03.26"
+    date_missing: "28.03.2026"
     callsign: 
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-12-14.jpg?raw=true"
