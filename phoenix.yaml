@@ -279,7 +279,7 @@ phoenix:
   - name: "Садовський Дмитро Васильович"
     dob: "06.09.1989"
     date_missing: "30.06.2025"
-    callsign: "Кот"
+    callsign:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_18-27-21.jpg?raw=true"
     active: true
