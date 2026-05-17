@@ -1,7 +1,7 @@
 phoenix:
   - name: "Вдовіченко Дмитро Васильович"
     dob: "23.12.1979"
-    date_missing: "21.04.2022"
+    date_missing: "у полоні"
     callsign:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_19-46-59.jpg?raw=true"
@@ -286,7 +286,7 @@ phoenix:
 
   - name: "Єгоров Олександр Олександрович"
     dob: "30.03.1992"
-    date_missing: "12.04.2022"
+    date_missing: "у полоні"
     callsign:
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6795.JPG?raw=true"
