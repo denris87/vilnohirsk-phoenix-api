@@ -292,3 +292,19 @@ phoenix:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6795.JPG?raw=true"
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/IMG_6796.JPG?raw=true"
     active: true
+
+  - name: "Бабенко Сергій Миколайович"
+    dob: "1978"
+    date_missing: "06.03.2022 "
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-17_20-35-50.jpg?raw=true"
+    active: true
+
+  - name: "Зьорнушко Володимир Анатолійович"
+    dob: "30.04.1971"
+    date_missing: "у полоні"
+    callsign:
+    photos:
+      - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo-output%203.PNG?raw=true"
+    active: true
