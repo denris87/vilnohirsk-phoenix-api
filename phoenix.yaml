@@ -2,7 +2,7 @@ phoenix:
   - name: "Вдовіченко Дмитро Васильович"
     dob: "23.12.1979"
     date_missing: "у полоні"
-    callsign:
+    callsign: 
     photos:
       - "https://github.com/denris87/vilnohirsk-phoenix-api/blob/main/photo_2026-05-15_19-46-59.jpg?raw=true"
     active: true
