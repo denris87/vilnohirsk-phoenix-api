@@ -294,7 +294,7 @@ phoenix:
     active: true
 
   - name: "Бабенко Сергій Миколайович"
-    dob: "1978"
+    dob: "16.08.1978"
     date_missing: "06.03.2022 "
     callsign:
     photos:
